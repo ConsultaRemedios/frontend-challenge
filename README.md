@@ -11,7 +11,7 @@ conforme as telas a seguir.
 
 ### Sobre o estilo
 * A família de fonte usada no layout é a OpenSans
-* Faça o download dos assets (ícones e imagens) do teste [**aqui**](https://github.com/giulianovarriale/assets-cr-test)
+* Faça o download dos assets (ícones e imagens) do teste [**aqui**](https://github.com/ConsultaRemedios/frontend-challenge/tree/master/assets)
 * Acesse as [**specs**](https://xd.adobe.com/spec/75b714d8-3dc2-4c5c-545f-893589786ad3-0386/) para obter detalhes de tamanho de fontes, cores e espaçamentos. **Senha:** CRtest2018
 
 
