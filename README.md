@@ -23,6 +23,7 @@ o nome da fonte utilizada, tamanhos, cores e espaçamentos. **Senha:** CRtest201
 * O usuário poderá ordenar os produtos por preço, popularidade (score) e ordem alfabética.
 * A cada produto adicionado, deve-se somar R$ 10,00 ao frete.
 * O frete é grátis para compras acima de R$ 250,00.
+* A aplicação deve estar hospedada em um domínio publico.
 
 ## O que iremos avaliar
 Levaremos em conta os seguintes critérios:
@@ -37,4 +38,4 @@ Levaremos em conta os seguintes critérios:
 Não estipulamos um prazo para a entrega do teste, apenas pedimos que, antes de iniciá-lo,
 nos informe uma data estimada de entrega.
 
-Assim que concluir o teste, nos encaminhe a url do repositório onde o teste foi escrito.
+Assim que concluir o teste, nos encaminhe a url do repositório onde o teste foi escrito e a url onde a aplicação está hospedada.
