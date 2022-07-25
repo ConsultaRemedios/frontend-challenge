@@ -38,6 +38,7 @@ Você ganha pontos se:
 - Utlizar algum framework como o Nuxt ou Next
 - Utlizar as versões mais recentes como o Vue 3 e o React 18
 - Utlizar técnicas avançadas como SCSS, ESLint, Prettier, Axios, lazyload nas imagens e skeleton loading
+- Deixar a aplicação responsiva
 - Estilizar sem ajuda de frameworks como Boostrap, Material, Tailwind etc
 - Utilizar Typescript e variáveis de ambient (.env)
 - Utlizar o Cypress para testes E2E
