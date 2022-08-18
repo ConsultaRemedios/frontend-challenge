@@ -19,7 +19,7 @@ conforme as telas a seguir:
 
 ## Requisitos
 
-- Os produtos devem ser renderizados dinamicamente através do [mock json](https://github.com/ConsultaRemedios/frontend-challenge/blob/master/products.json) presente neste repositório
+- Consumir e renderizar os produtos dinamicamente através do [mock json](https://github.com/ConsultaRemedios/frontend-challenge/blob/master/products.json) como se fosse um endpoint através do Fetch API ou Axios
 - Os valores exibidos no checkout (frete, subtotal e total) devem ser calculados dinamicamente
 - O usuário poderá adicionar e remover produtos do carrinho
 - O botão de adicionar ao carrinho será exibido no over de seu respectivo produto
@@ -28,7 +28,7 @@ conforme as telas a seguir:
 - A cada produto adicionado, deve-se somar R$ 10,00 ao frete
 - O frete é grátis para compras acima de R$ 250,00
 - A aplicação deve ser feita obrigatoriamente em VUE ou REACT
-- A aplicação deve estar hospedada em um domínio publico
+- A aplicação deve estar hospedada em um domínio público
 
 ## Bônus
 
