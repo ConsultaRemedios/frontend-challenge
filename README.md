@@ -29,6 +29,7 @@ conforme as telas a seguir:
 - O frete é grátis para compras acima de R$ 250,00
 - A aplicação deve ser feita obrigatoriamente em VUE ou REACT
 - A aplicação deve estar hospedada em um domínio público
+- o readme de seu projeto não pode ser genérico (como muitos frameworks trazem por padrão) e deve obrigatoriamente conter os requisitos e passo a passo de como rodar sua aplicação localmente. Além disso deve conter as tecnologias, libs, patterns etc, ou seja, tudo o que foi implementado.
 
 ## Bônus
 
