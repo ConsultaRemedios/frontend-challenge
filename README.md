@@ -27,7 +27,7 @@ conforme as telas a seguir:
 - O usuário poderá ordenar os produtos por preço, popularidade (score) e ordem alfabética
 - A cada produto adicionado, deve-se somar R$ 10,00 ao frete
 - O frete é grátis para compras acima de R$ 250,00
-- A aplicação deve ser feita obrigatoriamente em VUE ou REACT
+- A aplicação deve ser feita obrigatoriamente em REACT
 - A aplicação deve estar hospedada em um domínio público
 - o readme de seu projeto não pode ser genérico (como muitos frameworks trazem por padrão) e deve obrigatoriamente conter os requisitos e passo a passo de como rodar sua aplicação localmente. Além disso deve conter as tecnologias, libs, patterns etc, ou seja, tudo o que foi implementado.
 
@@ -36,12 +36,12 @@ conforme as telas a seguir:
 Você ganha pontos se:
 
 - Utilizar algum design pattern para estruturar seu projeto (Ex. Atomic Design)
-- Utlizar algum framework como o Nuxt ou Next
-- Utlizar as versões mais recentes como o Vue 3 e o React 18
-- Utlizar técnicas avançadas como SCSS, ESLint, Prettier, Axios, lazyload nas imagens e skeleton loading
-- Deixar a aplicação responsiva
-- Estilizar sem ajuda de frameworks como Boostrap, Material, Tailwind etc
-- Utilizar Typescript e variáveis de ambient (.env)
+- Utlizar o NextJS
+- Utlizar técnicas avançadas como ESLint, Prettier, Axios, lazyload nas imagens e skeleton loading
+- Deixar a aplicação responsiva e mobile first
+- Estilizar com a ajude do MUI (https://mui.com/material-ui/getting-started/overview/)
+- Utilizar Typescript
+- Utilizar variáveis de ambiente (.env)
 - Utlizar o Cypress para testes E2E
 - **Ganha muitos pontos:** Desenvolver a aplicação com SSG
 
